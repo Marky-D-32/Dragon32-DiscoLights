@@ -1,5 +1,5 @@
 # Dragon32-DiscoLights
-This is a small program that generates on-screen colour graphics in time with music that is played through the cassette port.
+This is a small 6809 assembly language program for the Dragon 32 that generates on-screen colour graphics in time with music that is played through the cassette port.
 In other words it simulates disco lights.
 
 The program was originally developed by Ron Gardler and was publish in the September 1984 edition of Your Computer magazine. 
